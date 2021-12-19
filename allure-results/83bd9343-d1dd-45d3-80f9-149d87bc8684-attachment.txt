@@ -1,0 +1,26 @@
+2021-12-20 01:58:08 [32mINFO[0m 
+
+2021-12-20 01:58:08 [32mINFO[0m ====== WebDriver manager ======
+2021-12-20 01:58:08 [32mINFO[0m Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-12-20 01:58:08 [32mINFO[0m Current google-chrome version is UNKNOWN
+2021-12-20 01:58:08 [32mINFO[0m Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-12-20 01:58:08 [32mINFO[0m Driver [C:\Users\Kimon\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-20 01:58:10 [32mINFO[0m Start app on https://berpress.github.io/
+2021-12-20 01:58:10 [32mINFO[0m Открытие страницы https://berpress.github.io/online-grocery-store
+2021-12-20 01:58:11 [32mINFO[0m Добавление товара potatoes в корзину
+2021-12-20 01:58:11 [32mINFO[0m Нажатие на элемент с локатором ('xpath', ".//div/span[@class = 'card-title' and contains(text(),'potatoes')]/following::div[1]/button")
+2021-12-20 01:58:11 [32mINFO[0m Переход в корзину
+2021-12-20 01:58:11 [32mINFO[0m Нажатие на элемент с локатором ('css selector', 'i.material-icons')
+2021-12-20 01:58:12 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="c9960a1af087a3392f77baca9697716b", element="3ba48159-71ef-454b-9d49-730cfa18bee7")> получен текст Корзина
+2021-12-20 01:58:12 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="c9960a1af087a3392f77baca9697716b", element="9658512b-d687-4312-b345-3b7620acaf45")> получен текст potatoes remove x1 add = 20 руб.
+close
+2021-12-20 01:58:12 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="c9960a1af087a3392f77baca9697716b", element="4c0b7212-49d1-497f-876c-d68606735ee8")> получен текст Total price: 20 ₽
+2021-12-20 01:58:12 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="c9960a1af087a3392f77baca9697716b", element="22c159b2-198e-4711-97fa-2d7da8fae656")> получен текст BUY
+2021-12-20 01:58:12 [32mINFO[0m Увеличиваем количество товара на 1ед.
+2021-12-20 01:58:12 [32mINFO[0m Нажатие на элемент с локатором ('xpath', ".//i[@class = 'material-icons basket-quantity' and contains(text(),'add')]")
+2021-12-20 01:58:13 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="c9960a1af087a3392f77baca9697716b", element="3ba48159-71ef-454b-9d49-730cfa18bee7")> получен текст Корзина
+2021-12-20 01:58:13 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="c9960a1af087a3392f77baca9697716b", element="9658512b-d687-4312-b345-3b7620acaf45")> получен текст potatoes remove x2 add = 40 руб.
+close
+2021-12-20 01:58:13 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="c9960a1af087a3392f77baca9697716b", element="4c0b7212-49d1-497f-876c-d68606735ee8")> получен текст Total price: 40 ₽
+2021-12-20 01:58:13 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="c9960a1af087a3392f77baca9697716b", element="22c159b2-198e-4711-97fa-2d7da8fae656")> получен текст BUY
+2021-12-20 01:58:15 [32mINFO[0m Браузер закрыт

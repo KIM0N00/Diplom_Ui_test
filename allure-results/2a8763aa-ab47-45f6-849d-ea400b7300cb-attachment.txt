@@ -1,0 +1,14 @@
+2021-12-20 01:58:55 [32mINFO[0m 
+
+2021-12-20 01:58:55 [32mINFO[0m ====== WebDriver manager ======
+2021-12-20 01:58:55 [32mINFO[0m Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-12-20 01:58:55 [32mINFO[0m Current google-chrome version is UNKNOWN
+2021-12-20 01:58:55 [32mINFO[0m Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-12-20 01:58:55 [32mINFO[0m Driver [C:\Users\Kimon\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-20 01:58:57 [32mINFO[0m Start app on https://berpress.github.io/
+2021-12-20 01:58:57 [32mINFO[0m Открытие страницы https://berpress.github.io/online-grocery-store
+2021-12-20 01:58:58 [32mINFO[0m Поиск продукта balalaika в магазине
+2021-12-20 01:58:58 [32mINFO[0m Заполняем <selenium.webdriver.remote.webelement.WebElement (session="657fc7a56def811dba5c7e3b22f9dc02", element="86526e42-1fd7-4c78-8ab9-33f79589791b")> данными balalaika
+2021-12-20 01:58:58 [32mINFO[0m Нажатие на элемент с локатором ('css selector', 'button.btn.search-btn')
+2021-12-20 01:58:59 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="657fc7a56def811dba5c7e3b22f9dc02", element="6158129e-87bc-4705-ab02-073d8bc72231")> получен текст Nothing here, see github
+2021-12-20 01:59:01 [32mINFO[0m Браузер закрыт

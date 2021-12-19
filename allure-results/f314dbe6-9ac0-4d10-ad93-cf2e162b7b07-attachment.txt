@@ -1,0 +1,15 @@
+2021-12-20 01:58:49 [32mINFO[0m 
+
+2021-12-20 01:58:49 [32mINFO[0m ====== WebDriver manager ======
+2021-12-20 01:58:49 [32mINFO[0m Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-12-20 01:58:49 [32mINFO[0m Current google-chrome version is UNKNOWN
+2021-12-20 01:58:49 [32mINFO[0m Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-12-20 01:58:49 [32mINFO[0m Driver [C:\Users\Kimon\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-20 01:58:51 [32mINFO[0m Start app on https://berpress.github.io/
+2021-12-20 01:58:51 [32mINFO[0m Открытие страницы https://berpress.github.io/online-grocery-store
+2021-12-20 01:58:52 [32mINFO[0m Поиск продукта potatoes в магазине
+2021-12-20 01:58:52 [32mINFO[0m Заполняем <selenium.webdriver.remote.webelement.WebElement (session="37baa9fb346f6330cd18425d42b5290a", element="af00b253-99f9-48c8-8c30-b05928b2d3a4")> данными potatoes
+2021-12-20 01:58:52 [32mINFO[0m Нажатие на элемент с локатором ('css selector', 'button.btn.search-btn')
+2021-12-20 01:58:52 [32mINFO[0m Отображение результатов поиска
+2021-12-20 01:58:53 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="37baa9fb346f6330cd18425d42b5290a", element="72e4d741-81a1-47dc-96bd-71775816bac6")> получен текст potatoes
+2021-12-20 01:58:55 [32mINFO[0m Браузер закрыт

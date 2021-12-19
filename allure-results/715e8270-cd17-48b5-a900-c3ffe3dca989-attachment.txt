@@ -1,0 +1,7 @@
+
+
+====== WebDriver manager ======
+Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+Current google-chrome version is UNKNOWN
+Get LATEST chromedriver version for UNKNOWN google-chrome
+Driver [C:\Users\Kimon\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache

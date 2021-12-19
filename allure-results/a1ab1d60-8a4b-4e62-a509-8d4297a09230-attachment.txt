@@ -1,0 +1,19 @@
+2021-12-20 01:59:07 [32mINFO[0m 
+
+2021-12-20 01:59:07 [32mINFO[0m ====== WebDriver manager ======
+2021-12-20 01:59:07 [32mINFO[0m Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-12-20 01:59:07 [32mINFO[0m Current google-chrome version is UNKNOWN
+2021-12-20 01:59:07 [32mINFO[0m Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-12-20 01:59:07 [32mINFO[0m Driver [C:\Users\Kimon\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-20 01:59:08 [32mINFO[0m Start app on https://berpress.github.io/
+2021-12-20 01:59:08 [32mINFO[0m Открытие страницы https://berpress.github.io/online-grocery-store
+2021-12-20 01:59:10 [32mINFO[0m Добавление товара apples в корзину
+2021-12-20 01:59:10 [32mINFO[0m Нажатие на элемент с локатором ('xpath', ".//div/span[@class = 'card-title' and contains(text(),'apples')]/following::div[1]/button")
+2021-12-20 01:59:10 [32mINFO[0m Переход в корзину
+2021-12-20 01:59:10 [32mINFO[0m Нажатие на элемент с локатором ('css selector', 'i.material-icons')
+2021-12-20 01:59:10 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="98e88eb1cf41b5f707de28a1c5e8ff3f", element="84cae023-45fe-4fc9-bc1a-b416ee6e95df")> получен текст Корзина
+2021-12-20 01:59:10 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="98e88eb1cf41b5f707de28a1c5e8ff3f", element="6e4bc62e-960e-478d-beb2-42867453c642")> получен текст apples remove x1 add = 112 руб.
+close
+2021-12-20 01:59:10 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="98e88eb1cf41b5f707de28a1c5e8ff3f", element="683d3be6-b709-409c-8891-45956155cf8b")> получен текст Total price: 112 ₽
+2021-12-20 01:59:10 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="98e88eb1cf41b5f707de28a1c5e8ff3f", element="bff22b05-f964-41c4-afe0-ebada6790013")> получен текст BUY
+2021-12-20 01:59:13 [32mINFO[0m Браузер закрыт

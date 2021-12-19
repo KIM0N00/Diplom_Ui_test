@@ -1,0 +1,19 @@
+2021-12-20 01:59:13 [32mINFO[0m 
+
+2021-12-20 01:59:13 [32mINFO[0m ====== WebDriver manager ======
+2021-12-20 01:59:13 [32mINFO[0m Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-12-20 01:59:13 [32mINFO[0m Current google-chrome version is UNKNOWN
+2021-12-20 01:59:13 [32mINFO[0m Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-12-20 01:59:13 [32mINFO[0m Driver [C:\Users\Kimon\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-20 01:59:14 [32mINFO[0m Start app on https://berpress.github.io/
+2021-12-20 01:59:14 [32mINFO[0m Открытие страницы https://berpress.github.io/online-grocery-store
+2021-12-20 01:59:16 [32mINFO[0m Добавление товара potatoes в корзину
+2021-12-20 01:59:16 [32mINFO[0m Нажатие на элемент с локатором ('xpath', ".//div/span[@class = 'card-title' and contains(text(),'potatoes')]/following::div[1]/button")
+2021-12-20 01:59:16 [32mINFO[0m Переход в корзину
+2021-12-20 01:59:16 [32mINFO[0m Нажатие на элемент с локатором ('css selector', 'i.material-icons')
+2021-12-20 01:59:17 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="5c96fc5b9f06dabb204b67ba7265bcff", element="c3489cb5-2bf0-4917-8093-2439d02cb282")> получен текст Корзина
+2021-12-20 01:59:17 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="5c96fc5b9f06dabb204b67ba7265bcff", element="a0f22e2e-79c5-4f53-acca-2ea7e0228f63")> получен текст potatoes remove x1 add = 20 руб.
+close
+2021-12-20 01:59:17 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="5c96fc5b9f06dabb204b67ba7265bcff", element="25aa99ca-3484-4746-a9b0-a8de419f7531")> получен текст Total price: 20 ₽
+2021-12-20 01:59:17 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="5c96fc5b9f06dabb204b67ba7265bcff", element="29a02661-ac30-4f0b-9769-e0ddef56b2e7")> получен текст BUY
+2021-12-20 01:59:19 [32mINFO[0m Браузер закрыт

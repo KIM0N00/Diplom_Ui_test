@@ -1,0 +1,26 @@
+2021-12-20 01:58:15 [32mINFO[0m 
+
+2021-12-20 01:58:15 [32mINFO[0m ====== WebDriver manager ======
+2021-12-20 01:58:15 [32mINFO[0m Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-12-20 01:58:15 [32mINFO[0m Current google-chrome version is UNKNOWN
+2021-12-20 01:58:15 [32mINFO[0m Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-12-20 01:58:15 [32mINFO[0m Driver [C:\Users\Kimon\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-20 01:58:16 [32mINFO[0m Start app on https://berpress.github.io/
+2021-12-20 01:58:16 [32mINFO[0m Открытие страницы https://berpress.github.io/online-grocery-store
+2021-12-20 01:58:18 [32mINFO[0m Добавление товара apples в корзину
+2021-12-20 01:58:18 [32mINFO[0m Нажатие на элемент с локатором ('xpath', ".//div/span[@class = 'card-title' and contains(text(),'apples')]/following::div[1]/button")
+2021-12-20 01:58:18 [32mINFO[0m Переход в корзину
+2021-12-20 01:58:18 [32mINFO[0m Нажатие на элемент с локатором ('css selector', 'i.material-icons')
+2021-12-20 01:58:19 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="b401f8ede63ff70d9e9e4a3e94bb30c7", element="5a2e71cd-28de-47e2-8a7b-291cfd83235b")> получен текст Корзина
+2021-12-20 01:58:19 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="b401f8ede63ff70d9e9e4a3e94bb30c7", element="22667754-c0b1-4eda-9c97-fdb90c8959bf")> получен текст apples remove x1 add = 112 руб.
+close
+2021-12-20 01:58:19 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="b401f8ede63ff70d9e9e4a3e94bb30c7", element="c51e3881-697d-4697-a5b1-8ceb0bf2762a")> получен текст Total price: 112 ₽
+2021-12-20 01:58:19 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="b401f8ede63ff70d9e9e4a3e94bb30c7", element="692fba0d-c8dc-45d9-823c-4c0f118a18be")> получен текст BUY
+2021-12-20 01:58:19 [32mINFO[0m Уменьшаем количество товара на 1ед.
+2021-12-20 01:58:19 [32mINFO[0m Нажатие на элемент с локатором ('xpath', ".//i[@class = 'material-icons basket-quantity' and contains(text(),'remove')]")
+2021-12-20 01:58:24 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="b401f8ede63ff70d9e9e4a3e94bb30c7", element="5a2e71cd-28de-47e2-8a7b-291cfd83235b")> получен текст Корзина
+2021-12-20 01:58:24 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="b401f8ede63ff70d9e9e4a3e94bb30c7", element="22667754-c0b1-4eda-9c97-fdb90c8959bf")> получен текст apples remove x0 add = 0 руб.
+close
+2021-12-20 01:58:24 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="b401f8ede63ff70d9e9e4a3e94bb30c7", element="c51e3881-697d-4697-a5b1-8ceb0bf2762a")> получен текст Total price: 0 ₽
+2021-12-20 01:58:24 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="b401f8ede63ff70d9e9e4a3e94bb30c7", element="692fba0d-c8dc-45d9-823c-4c0f118a18be")> получен текст BUY
+2021-12-20 01:58:26 [32mINFO[0m Браузер закрыт

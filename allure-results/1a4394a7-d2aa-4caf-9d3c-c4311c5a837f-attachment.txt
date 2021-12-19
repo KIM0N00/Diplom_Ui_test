@@ -1,0 +1,17 @@
+2021-12-20 01:58:32 [32mINFO[0m 
+
+2021-12-20 01:58:32 [32mINFO[0m ====== WebDriver manager ======
+2021-12-20 01:58:32 [32mINFO[0m Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-12-20 01:58:32 [32mINFO[0m Current google-chrome version is UNKNOWN
+2021-12-20 01:58:32 [32mINFO[0m Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-12-20 01:58:32 [32mINFO[0m Driver [C:\Users\Kimon\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-20 01:58:34 [32mINFO[0m Start app on https://berpress.github.io/
+2021-12-20 01:58:34 [32mINFO[0m Открытие страницы https://berpress.github.io/online-grocery-store
+2021-12-20 01:58:35 [32mINFO[0m Добавление товара apples в корзину
+2021-12-20 01:58:35 [32mINFO[0m Нажатие на элемент с локатором ('xpath', ".//div/span[@class = 'card-title' and contains(text(),'apples')]/following::div[1]/button")
+2021-12-20 01:58:35 [32mINFO[0m Переход в корзину
+2021-12-20 01:58:35 [32mINFO[0m Нажатие на элемент с локатором ('css selector', 'i.material-icons')
+2021-12-20 01:58:35 [32mINFO[0m Покупка товаров
+2021-12-20 01:58:35 [32mINFO[0m Нажатие на элемент с локатором ('xpath', ".//li/button[@class = 'btn red btn-small' and contains(text(),'Buy')]")
+2021-12-20 01:58:41 [32mINFO[0m Для  <selenium.webdriver.remote.webelement.WebElement (session="47160a11e68d68f0413e00da042bde09", element="78dcd486-fc03-4616-9072-718a8371fde5")> получен текст Pay done!
+2021-12-20 01:58:43 [32mINFO[0m Браузер закрыт
